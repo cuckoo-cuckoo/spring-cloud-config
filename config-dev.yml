@@ -4,3 +4,5 @@ server:
 spring:
   application:
     name: cloud-config-dev    #config-dev.yml
+config:
+ info: aaaaaaaaaaaaaaaaaaaaaa
