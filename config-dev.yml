@@ -3,6 +3,6 @@ server:
 
 spring:
   application:
-    name: cloud-config    #config-dev.yml
+    name: cloud-config-main    #config-dev.yml
 config:
  info: aaaaaaaaaaaaaaaaaaaaaa
